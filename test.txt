@@ -1,0 +1,10 @@
+ Volume in drive D is OSDisk
+ Volume Serial Number is DEC3-3D78
+
+ Directory of D:\Task\2018\Hackathon\Project1
+
+06/24/2018  08:49 PM    <DIR>          .
+06/24/2018  08:49 PM    <DIR>          ..
+06/24/2018  08:49 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  228,614,385,664 bytes free
